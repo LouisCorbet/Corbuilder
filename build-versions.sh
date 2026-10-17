@@ -40,3 +40,7 @@ out="versions.json.tmp"
 } > "$out"
 mv "$out" versions.json
 echo "versions.json généré : $(echo "$files" | wc -l | tr -d ' ') version(s)."
+
+git add .
+git commit -m "Added new version"
+git push
