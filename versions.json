@@ -1,0 +1,61 @@
+{
+  "name": "Corbuilder",
+  "versions": [
+    {
+      "version": "2.4.0",
+      "file": "corbuilder-2.4.0.zip",
+      "sha256": "8e5c07ed214eda120af904af0e8d66327fda11201a41bad343d646124932d5a0",
+      "date": "2026-10-17",
+      "notes": []
+    },
+    {
+      "version": "2.3.2",
+      "file": "corbuilder-2.3.2.zip",
+      "sha256": "1fe537f60b93d93b45cb1703b0eed5cafdb45c1afb8c356cc8c677980b79eb24",
+      "date": "2026-10-16",
+      "notes": []
+    },
+    {
+      "version": "2.3.1",
+      "file": "corbuilder-2.3.1.zip",
+      "sha256": "83f0a37d357448691e94fd95ed33b632b0741cfa544fd2cfb746122340bbc4f6",
+      "date": "2026-10-16",
+      "notes": []
+    },
+    {
+      "version": "2.3.0",
+      "file": "corbuilder-2.3.0.zip",
+      "sha256": "bb09219a522d5e3b34ac0e46cbc4bbcd306718757dae65dcc2e4d6cf87fc517d",
+      "date": "2026-10-16",
+      "notes": []
+    },
+    {
+      "version": "2.2.0",
+      "file": "corbuilder-2.2.0.zip",
+      "sha256": "40abc590369e294f5a5a832dda0436476dd8a0b47a32f79d965885377b0e27d9",
+      "date": "2026-10-16",
+      "notes": []
+    },
+    {
+      "version": "2.1.1",
+      "file": "corbuilder-2.1.1.zip",
+      "sha256": "83b176d2bfc145cb50521d01a61b494a3deb79cc92da01b311cf2c7442661867",
+      "date": "2026-10-16",
+      "notes": []
+    },
+    {
+      "version": "2.1.0",
+      "file": "corbuilder-2.1.0.zip",
+      "sha256": "bddef7b8f98fae2ea468de4710fcd796c4942a0b3a868d2ef1b7855898565811",
+      "date": "2026-10-16",
+      "notes": []
+    },
+    {
+      "version": "2.0.0",
+      "file": "corbuilder-2.0.0.zip",
+      "sha256": "2e47c36e57ef4408dc4580e298f14707834b60754579dbd0abb74789206b825f",
+      "date": "2026-10-16",
+      "notes": []
+    }
+  ]
+}
