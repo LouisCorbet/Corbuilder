@@ -2,6 +2,13 @@
   "name": "Corbuilder",
   "versions": [
     {
+      "version": "2.5.0",
+      "file": "corbuilder-2.5.0.zip",
+      "sha256": "4ec239296dd92b637b1a9660d39613232a4947d796e95a90e5c4e7eeb066e6fc",
+      "date": "2026-10-17",
+      "notes": []
+    },
+    {
       "version": "2.4.0",
       "file": "corbuilder-2.4.0.zip",
       "sha256": "8e5c07ed214eda120af904af0e8d66327fda11201a41bad343d646124932d5a0",
