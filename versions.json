@@ -2,6 +2,20 @@
   "name": "Corbuilder",
   "versions": [
     {
+      "version": "3.0.0",
+      "file": "corbuilder-3.0.0.zip",
+      "sha256": "68483519c578305a31e646789573197ba6cd2f982a9d4545f62ae2cfc2fcfeed",
+      "date": "2026-10-18",
+      "notes": []
+    },
+    {
+      "version": "2.9.0",
+      "file": "corbuilder-2.9.0.zip",
+      "sha256": "221759f9249d86764f5e7509ac0e0f8c6960e7168a650543a3e9eb8e4a6efcac",
+      "date": "2026-10-18",
+      "notes": []
+    },
+    {
       "version": "2.8.0",
       "file": "corbuilder-2.8.0.zip",
       "sha256": "99ca8d47498e4a09542db93de2e54cce60c583ef421edb1b4f263f0be5e9f501",
