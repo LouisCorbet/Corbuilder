@@ -9,6 +9,13 @@
       "notes": []
     },
     {
+      "version": "3.1.0",
+      "file": "corbuilder-3.1.0.zip",
+      "sha256": "55a9e0c75b6172ae28eba8087697eec670ab2813622cc1a029c281c3d1dac44f",
+      "date": "2026-10-20",
+      "notes": []
+    },
+    {
       "version": "3.0.0",
       "file": "corbuilder-3.0.0.zip",
       "sha256": "68483519c578305a31e646789573197ba6cd2f982a9d4545f62ae2cfc2fcfeed",
